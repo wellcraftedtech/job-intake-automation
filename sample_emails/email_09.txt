@@ -1,0 +1,16 @@
+From: ops@fleetrecoveries.com.au
+To: jobs@legalsupport.com.au
+Subject: Field Call Request - HIRE CAR RETRIEVAL
+Date: Sat, 03 Jan 2026 11:30:00 +1100
+
+Hi Dispatch,
+
+Job Type: Repossession / Field Call
+Target: 2024 Toyota Camary (Silver) - Rego ABC-123
+Renter: James Bond
+Address: 10 Bondi Rd, Bondi Beach NSW 2026
+
+Renter has stopped paying. Try to collect keys or establish location of vehicle.
+If located, call tow truck immediately (we will provide number).
+
+Deadline: ASAP
